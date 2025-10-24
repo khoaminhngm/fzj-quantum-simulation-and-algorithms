@@ -1,2 +1,4 @@
 guppylang
 qiskit
+numpy
+qiskit-aer
